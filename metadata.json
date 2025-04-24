@@ -1,9 +1,9 @@
 {
   "name": "GothCoin",
   "symbol": "GOTH",
-  "description": "Un token gothique symbolisé par une lettre G stylisée.",
+  "description": "Un token gothique .",
   "seller_fee_basis_points": 500,
-  "image": "https://TON_PSEUDO.github.io/gothcoin-nft/goth-g.png",
+  "image": "https://Kmouankie.github.io/gothcoin-nft/goth-g.png",
   "attributes": [
     { "trait_type": "Style", "value": "Gothic" },
     { "trait_type": "Lettre", "value": "G" }
